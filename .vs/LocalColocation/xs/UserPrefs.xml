@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{BB2AF208-2666-411B-AD92-4BCCB1BBF43A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ColocationModels/BinaryColocationPattern.cs">
+    <Files>
+      <File FileName="ColocationModels/ColocationPatternGroup.cs" Line="49" Column="55" />
+      <File FileName="ColocationModels/BinaryColocationPattern.cs" Line="98" Column="1" />
+      <File FileName="ColocationModels/ColocationPattern.cs" Line="107" Column="7" />
+      <File FileName="ColocationModels/CoarseMBR.cs" Line="89" Column="13" />
+      <File FileName="ColocationModels/GeneralColocationPattern.cs" Line="195" Column="49" />
+      <File FileName="ColocationModels/PreciseMBR.cs" Line="95" Column="51" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.ItemProperties.LocalColocation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

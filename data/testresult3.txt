@@ -1,0 +1,360 @@
+../../../data/Regional2_3_50_10000_10000_50_06_1000_1_1_1000.csv ../../../data/testresult3.txt 60 1000 0.50
+
+Time: 00:00:15.6369720 	 0.2606162min
+2
+ColocationPattern: PatternTypes=evt0/ evt2, Instance Count: 85 
+ MBR: 
+[CoarseMBR: MinRowIndex=2, MinColumnIndex=3, MaxRowIndex=3, MaxColumnIndex=4] 
+ Precise MBR: 
+[PreciseMBR: MinX=3029.76798603, MaxX=4211.3913833, MinY=2110.936372115, MaxY=3709.50972771, 
+TotalPointNumberIn=  evt0: 6, evt2: 8,, 
+TruePointNumberIn=  evt0: 3, evt2: 4,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=0, MinColumnIndex=7, MaxRowIndex=4, MaxColumnIndex=7] 
+ Precise MBR: 
+[PreciseMBR: MinX=7761.84266006, MaxX=7932.10810481, MinY=854.155982362, MaxY=4820.16006386, 
+TotalPointNumberIn=  evt0: 8, evt2: 6,, 
+TruePointNumberIn=  evt0: 8, evt2: 5,, 
+ParticipationIndex=0.833333333333333] 
+ 
+
+[CoarseMBR: MinRowIndex=1, MinColumnIndex=3, MaxRowIndex=2, MaxColumnIndex=6] 
+ Precise MBR: 
+[PreciseMBR: MinX=3029.76798603, MaxX=6840.74812229, MinY=1365.545255925, MaxY=2562.971861025, 
+TotalPointNumberIn=  evt0: 13, evt2: 24,, 
+TruePointNumberIn=  evt0: 10, evt2: 12,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=0, MinColumnIndex=3, MaxRowIndex=1, MaxColumnIndex=7] 
+ Precise MBR: 
+[PreciseMBR: MinX=3361.576032925, MaxX=7823.531243705, MinY=854.155982362, MaxY=1640.782730095, 
+TotalPointNumberIn=  evt0: 11, evt2: 15,, 
+TruePointNumberIn=  evt0: 6, evt2: 8,, 
+ParticipationIndex=0.533333333333333] 
+ 
+
+[CoarseMBR: MinRowIndex=1, MinColumnIndex=3, MaxRowIndex=4, MaxColumnIndex=3] 
+ Precise MBR: 
+[PreciseMBR: MinX=3029.76798603, MaxX=3361.924429695, MinY=1365.545255925, MaxY=4038.955293295, 
+TotalPointNumberIn=  evt0: 4, evt2: 7,, 
+TruePointNumberIn=  evt0: 4, evt2: 4,, 
+ParticipationIndex=0.571428571428571] 
+ 
+
+[CoarseMBR: MinRowIndex=0, MinColumnIndex=2, MaxRowIndex=2, MaxColumnIndex=3] 
+ Precise MBR: 
+[PreciseMBR: MinX=2693.820320665, MaxX=3361.924429695, MinY=608.011969258, MaxY=2562.971861025, 
+TotalPointNumberIn=  evt0: 10, evt2: 5,, 
+TruePointNumberIn=  evt0: 7, evt2: 3,, 
+ParticipationIndex=0.6] 
+ 
+
+[CoarseMBR: MinRowIndex=0, MinColumnIndex=0, MaxRowIndex=1, MaxColumnIndex=3] 
+ Precise MBR: 
+[PreciseMBR: MinX=481.489758017, MaxX=3361.924429695, MinY=259.8167589705, MaxY=1378.50389876, 
+TotalPointNumberIn=  evt0: 15, evt2: 8,, 
+TruePointNumberIn=  evt0: 8, evt2: 4,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=1, MinColumnIndex=5, MaxRowIndex=6, MaxColumnIndex=6] 
+ Precise MBR: 
+[PreciseMBR: MinX=5965.651368025, MaxX=6158.44250092, MinY=1612.233991775, MaxY=6590.823411785, 
+TotalPointNumberIn=  evt0: 3, evt2: 6,, 
+TruePointNumberIn=  evt0: 2, evt2: 3,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=0, MinColumnIndex=5, MaxRowIndex=2, MaxColumnIndex=7] 
+ Precise MBR: 
+[PreciseMBR: MinX=5721.208239215, MaxX=7823.531243705, MinY=854.155982362, MaxY=2113.816546195, 
+TotalPointNumberIn=  evt0: 9, evt2: 14,, 
+TruePointNumberIn=  evt0: 6, evt2: 8,, 
+ParticipationIndex=0.571428571428571] 
+ 
+
+[CoarseMBR: MinRowIndex=1, MinColumnIndex=5, MaxRowIndex=9, MaxColumnIndex=5] 
+ Precise MBR: 
+[PreciseMBR: MinX=5443.276704105, MaxX=5727.97493943, MinY=1376.219777985, MaxY=9196.547162085, 
+TotalPointNumberIn=  evt0: 8, evt2: 6,, 
+TruePointNumberIn=  evt0: 6, evt2: 3,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=4, MinColumnIndex=1, MaxRowIndex=4, MaxColumnIndex=3] 
+ Precise MBR: 
+[PreciseMBR: MinX=1448.565340265, MaxX=3259.915115965, MinY=4038.955293295, MaxY=4629.322922305, 
+TotalPointNumberIn=  evt0: 3, evt2: 3,, 
+TruePointNumberIn=  evt0: 2, evt2: 2,, 
+ParticipationIndex=0.666666666666667] 
+ 
+
+[CoarseMBR: MinRowIndex=4, MinColumnIndex=5, MaxRowIndex=5, MaxColumnIndex=7] 
+ Precise MBR: 
+[PreciseMBR: MinX=5443.276704105, MaxX=7878.65049619, MinY=4477.14204254, MaxY=5026.22195321, 
+TotalPointNumberIn=  evt0: 6, evt2: 6,, 
+TruePointNumberIn=  evt0: 4, evt2: 3,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=2, MinColumnIndex=3, MaxRowIndex=2, MaxColumnIndex=7] 
+ Precise MBR: 
+[PreciseMBR: MinX=3211.935303435, MaxX=7932.10810481, MinY=2437.00549658, MaxY=2586.033165785, 
+TotalPointNumberIn=  evt0: 6, evt2: 6,, 
+TruePointNumberIn=  evt0: 4, evt2: 3,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=0, MinColumnIndex=0, MaxRowIndex=8, MaxColumnIndex=0] 
+ Precise MBR: 
+[PreciseMBR: MinX=365.6967188225, MaxX=515.556251313, MinY=536.98856606, MaxY=8585.298430135, 
+TotalPointNumberIn=  evt0: 7, evt2: 6,, 
+TruePointNumberIn=  evt0: 4, evt2: 3,, 
+ParticipationIndex=0.5] 
+ 
+
+ 
+
+
+ColocationPattern: PatternTypes=evt2/ evt4, Instance Count: 32 
+ MBR: 
+[CoarseMBR: MinRowIndex=0, MinColumnIndex=2, MaxRowIndex=1, MaxColumnIndex=3] 
+ Precise MBR: 
+[PreciseMBR: MinX=2622.624418675, MaxX=3617.263727205, MinY=598.9425646525, MaxY=1378.134500445, 
+TotalPointNumberIn=  evt2: 2, evt4: 2,, 
+TruePointNumberIn=  evt2: 2, evt4: 2,, 
+ParticipationIndex=1] 
+ 
+
+[CoarseMBR: MinRowIndex=1, MinColumnIndex=2, MaxRowIndex=1, MaxColumnIndex=6] 
+ Precise MBR: 
+[PreciseMBR: MinX=2622.624418675, MaxX=6143.04561979, MinY=1189.16374031, MaxY=1632.46547634, 
+TotalPointNumberIn=  evt2: 5, evt4: 7,, 
+TruePointNumberIn=  evt2: 5, evt4: 4,, 
+ParticipationIndex=0.571428571428571] 
+ 
+
+[CoarseMBR: MinRowIndex=0, MinColumnIndex=5, MaxRowIndex=1, MaxColumnIndex=7] 
+ Precise MBR: 
+[PreciseMBR: MinX=5726.67041149, MaxX=7831.635381055, MinY=395.493504612, MaxY=1632.46547634, 
+TotalPointNumberIn=  evt2: 12, evt4: 4,, 
+TruePointNumberIn=  evt2: 7, evt4: 2,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=0, MinColumnIndex=2, MaxRowIndex=4, MaxColumnIndex=2] 
+ Precise MBR: 
+[PreciseMBR: MinX=2290.378116095, MaxX=2695.304655505, MinY=603.4665291745, MaxY=4625.48273255, 
+TotalPointNumberIn=  evt2: 5, evt4: 10,, 
+TruePointNumberIn=  evt2: 4, evt4: 7,, 
+ParticipationIndex=0.7] 
+ 
+
+[CoarseMBR: MinRowIndex=2, MinColumnIndex=1, MaxRowIndex=2, MaxColumnIndex=2] 
+ Precise MBR: 
+[PreciseMBR: MinX=1043.871367635, MaxX=2855.167640175, MinY=2543.576607765, MaxY=2806.15716228, 
+TotalPointNumberIn=  evt2: 3, evt4: 2,, 
+TruePointNumberIn=  evt2: 2, evt4: 2,, 
+ParticipationIndex=0.666666666666667] 
+ 
+
+ 
+
+
+ColocationPattern: PatternTypes=evt1/ evt2, Instance Count: 60 
+ MBR: 
+[CoarseMBR: MinRowIndex=6, MinColumnIndex=0, MaxRowIndex=6, MaxColumnIndex=7] 
+ Precise MBR: 
+[PreciseMBR: MinX=113.3452800727, MaxX=7850.01281188, MinY=6442.81376805, MaxY=6805.49700597, 
+TotalPointNumberIn=  evt1: 14, evt2: 14,, 
+TruePointNumberIn=  evt1: 9, evt2: 8,, 
+ParticipationIndex=0.571428571428571] 
+ 
+
+[CoarseMBR: MinRowIndex=6, MinColumnIndex=5, MaxRowIndex=8, MaxColumnIndex=8] 
+ Precise MBR: 
+[PreciseMBR: MinX=5082.239277095, MaxX=8339.08611088, MinY=6510.6076718, MaxY=8066.26552826, 
+TotalPointNumberIn=  evt1: 22, evt2: 19,, 
+TruePointNumberIn=  evt1: 11, evt2: 10,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=4, MinColumnIndex=5, MaxRowIndex=9, MaxColumnIndex=6] 
+ Precise MBR: 
+[PreciseMBR: MinX=5957.37614207, MaxX=6460.770741675, MinY=4474.675922215, MaxY=8898.216712565, 
+TotalPointNumberIn=  evt1: 9, evt2: 13,, 
+TruePointNumberIn=  evt1: 5, evt2: 7,, 
+ParticipationIndex=0.538461538461538] 
+ 
+
+[CoarseMBR: MinRowIndex=2, MinColumnIndex=6, MaxRowIndex=2, MaxColumnIndex=7] 
+ Precise MBR: 
+[PreciseMBR: MinX=6786.86100101, MaxX=7938.31035865, MinY=2115.34002721, MaxY=2573.36641941, 
+TotalPointNumberIn=  evt1: 4, evt2: 4,, 
+TruePointNumberIn=  evt1: 2, evt2: 2,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=2, MinColumnIndex=1, MaxRowIndex=3, MaxColumnIndex=3] 
+ Precise MBR: 
+[PreciseMBR: MinX=1232.992567895, MaxX=3221.1360815, MinY=2523.622993375, MaxY=2939.193725895, 
+TotalPointNumberIn=  evt1: 2, evt2: 8,, 
+TruePointNumberIn=  evt1: 2, evt2: 4,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=2, MinColumnIndex=7, MaxRowIndex=9, MaxColumnIndex=8] 
+ Precise MBR: 
+[PreciseMBR: MinX=7583.01627681, MaxX=8339.08611088, MinY=2573.36641941, MaxY=9504.802294, 
+TotalPointNumberIn=  evt1: 18, evt2: 20,, 
+TruePointNumberIn=  evt1: 10, evt2: 10,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=4, MinColumnIndex=5, MaxRowIndex=4, MaxColumnIndex=7] 
+ Precise MBR: 
+[PreciseMBR: MinX=5957.37614207, MaxX=7873.709099825, MinY=4474.675922215, MaxY=4830.94449381, 
+TotalPointNumberIn=  evt1: 4, evt2: 3,, 
+TruePointNumberIn=  evt1: 2, evt2: 2,, 
+ParticipationIndex=0.5] 
+ 
+
+ 
+
+
+ColocationPattern: PatternTypes=evt0/ evt4, Instance Count: 32 
+ MBR: 
+[CoarseMBR: MinRowIndex=0, MinColumnIndex=5, MaxRowIndex=1, MaxColumnIndex=7] 
+ Precise MBR: 
+[PreciseMBR: MinX=5095.44554089, MaxX=7830.51274677, MinY=10.82986542903, MaxY=1635.333486925, 
+TotalPointNumberIn=  evt0: 14, evt4: 10,, 
+TruePointNumberIn=  evt0: 9, evt4: 5,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=8, MinColumnIndex=4, MaxRowIndex=8, MaxColumnIndex=8] 
+ Precise MBR: 
+[PreciseMBR: MinX=4409.06226091, MaxX=8668.239483995, MinY=7920.61997503, MaxY=8117.98513345, 
+TotalPointNumberIn=  evt0: 2, evt4: 5,, 
+TruePointNumberIn=  evt0: 2, evt4: 3,, 
+ParticipationIndex=0.6] 
+ 
+
+ 
+
+
+ColocationPattern: PatternTypes=evt0/ evt1, Instance Count: 56 
+ MBR: 
+[CoarseMBR: MinRowIndex=3, MinColumnIndex=4, MaxRowIndex=4, MaxColumnIndex=8] 
+ Precise MBR: 
+[PreciseMBR: MinX=4195.994096915, MaxX=8383.022949395, MinY=3705.63830199, MaxY=3973.793307, 
+TotalPointNumberIn=  evt0: 4, evt1: 4,, 
+TruePointNumberIn=  evt0: 2, evt1: 3,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=2, MinColumnIndex=7, MaxRowIndex=4, MaxColumnIndex=8] 
+ Precise MBR: 
+[PreciseMBR: MinX=7781.846120045, MaxX=8383.022949395, MinY=2562.888027655, MaxY=4823.70165533, 
+TotalPointNumberIn=  evt0: 10, evt1: 7,, 
+TruePointNumberIn=  evt0: 7, evt1: 5,, 
+ParticipationIndex=0.7] 
+ 
+
+[CoarseMBR: MinRowIndex=1, MinColumnIndex=3, MaxRowIndex=3, MaxColumnIndex=4] 
+ Precise MBR: 
+[PreciseMBR: MinX=3217.708033775, MaxX=4195.994096915, MinY=1750.823884895, MaxY=3705.63830199, 
+TotalPointNumberIn=  evt0: 6, evt1: 6,, 
+TruePointNumberIn=  evt0: 3, evt1: 3,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=1, MinColumnIndex=3, MaxRowIndex=2, MaxColumnIndex=6] 
+ Precise MBR: 
+[PreciseMBR: MinX=3217.708033775, MaxX=6788.53517565, MinY=1750.823884895, MaxY=2558.34268582, 
+TotalPointNumberIn=  evt0: 6, evt1: 6,, 
+TruePointNumberIn=  evt0: 4, evt1: 3,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=2, MinColumnIndex=1, MaxRowIndex=2, MaxColumnIndex=3] 
+ Precise MBR: 
+[PreciseMBR: MinX=1924.988573025, MaxX=3230.54837376, MinY=2315.056434525, MaxY=2824.530856285, 
+TotalPointNumberIn=  evt0: 8, evt1: 2,, 
+TruePointNumberIn=  evt0: 5, evt1: 2,, 
+ParticipationIndex=0.625] 
+ 
+
+[CoarseMBR: MinRowIndex=1, MinColumnIndex=2, MaxRowIndex=2, MaxColumnIndex=3] 
+ Precise MBR: 
+[PreciseMBR: MinX=2594.16593203, MaxX=3720.622420515, MinY=1750.823884895, MaxY=2558.34268582, 
+TotalPointNumberIn=  evt0: 8, evt1: 3,, 
+TruePointNumberIn=  evt0: 4, evt1: 3,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=8, MinColumnIndex=3, MaxRowIndex=9, MaxColumnIndex=5] 
+ Precise MBR: 
+[PreciseMBR: MinX=3854.77625924, MaxX=5699.913174125, MinY=8315.74697531, MaxY=9066.61955242, 
+TotalPointNumberIn=  evt0: 4, evt1: 4,, 
+TruePointNumberIn=  evt0: 2, evt1: 3,, 
+ParticipationIndex=0.5] 
+ 
+
+[CoarseMBR: MinRowIndex=4, MinColumnIndex=5, MaxRowIndex=8, MaxColumnIndex=6] 
+ Precise MBR: 
+[PreciseMBR: MinX=5699.913174125, MaxX=6330.8458736, MinY=4463.370727875, MaxY=8315.74697531, 
+TotalPointNumberIn=  evt0: 7, evt1: 7,, 
+TruePointNumberIn=  evt0: 4, evt1: 4,, 
+ParticipationIndex=0.571428571428571] 
+ 
+
+[CoarseMBR: MinRowIndex=7, MinColumnIndex=4, MaxRowIndex=8, MaxColumnIndex=5] 
+ Precise MBR: 
+[PreciseMBR: MinX=4479.435910245, MaxX=5699.913174125, MinY=7736.276701235, MaxY=8713.348759845, 
+TotalPointNumberIn=  evt0: 4, evt1: 4,, 
+TruePointNumberIn=  evt0: 2, evt1: 2,, 
+ParticipationIndex=0.5] 
+ 
+
+ 
+
+
+
+*********************************************************************************
+
+
+3
+ColocationPattern: PatternTypes=evt0/ evt2/ evt4, Instance Count: 23 
+ MBR: 
+[CoarseMBR: MinRowIndex=0, MinColumnIndex=5, MaxRowIndex=1, MaxColumnIndex=7] 
+ Precise MBR: 
+[PreciseMBR: MinX=5722.62349276667, MaxX=7828.55979051, MinY=852.897827165, MaxY=1636.19389778667, 
+TotalPointNumberIn=  evt0: 8, evt2: 9, evt4: 3,, 
+TruePointNumberIn=  evt0: 4, evt2: 5, evt4: 2,, 
+ParticipationIndex=0.5] 
+ 
+
+ 
+
+
+ColocationPattern: PatternTypes=evt0/ evt1/ evt2, Instance Count: 36 
+ MBR: 
+[CoarseMBR: MinRowIndex=2, MinColumnIndex=7, MaxRowIndex=4, MaxColumnIndex=7] 
+ Precise MBR: 
+[PreciseMBR: MinX=7793.12480899667, MaxX=7936.92473940333, MinY=2570.12093373667, MaxY=4824.93540433333, 
+TotalPointNumberIn=  evt0: 4, evt1: 5, evt2: 5,, 
+TruePointNumberIn=  evt0: 4, evt1: 4, evt2: 5,, 
+ParticipationIndex=0.8] 
+ 
+
+ 
+
+
+
+*********************************************************************************
+
+

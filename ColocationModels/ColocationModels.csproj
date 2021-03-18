@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{64500F14-A9A6-4A8D-8362-3BB11723EE79}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ColocationModels</RootNamespace>
+    <AssemblyName>ColocationModels</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System.Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="PointBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PointEvent.cs" />
+    <Compile Include="ColocationPattern.cs" />
+    <Compile Include="ColocationInstance.cs" />
+    <Compile Include="ColocationPatternGroup.cs" />
+    <Compile Include="PointGrid.cs" />
+    <Compile Include="ColocationMiner.cs" />
+    <Compile Include="BinaryColocationPattern.cs" />
+    <Compile Include="GeneralColocationPattern.cs" />
+    <Compile Include="CoarseMBR.cs" />
+    <Compile Include="PreciseMBR.cs" />
+    <Compile Include="ActiveCell.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HelpLib\HelpLib.csproj">
+      <Project>{D1666A19-AD39-4866-A810-93BD5B02F7BD}</Project>
+      <Name>HelpLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>
